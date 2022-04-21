@@ -3,8 +3,9 @@
 } */
 
 * {
-  font-family: var(--bs-font-sans-serif);
+  font-family: 'Segeo UI', 'Roboto', sans-serif;
 }
+
 body {
   text-align: center;
 }
