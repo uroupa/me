@@ -19,12 +19,24 @@ h1 {
   padding-left: 30px;
 }
 
+
 .brand_name {
   font-family: 'Oswald', sans-serif;
   font-size: 1.3rem;
 }
 
 /* home */
+.cv-download{
+  margin-top: 5%;
+  float: right;
+}
+
+@media only screen and (max-width: 990px) {
+ .cv-download {
+   margin-top: 10%;
+   }
+ }
+
 .home_section {
   text-align: center;
   background-color: white;
@@ -37,7 +49,7 @@ h1 {
 }
 
 .intro-row {
-  padding-top: 15%;
+  padding-top: 5%;
 }
 
 .home_section span {
@@ -80,7 +92,15 @@ h1 {
   color: white;
 }
 
+.click-here-link{
+  font-weight: bolder;
+  color: white;
+  text-decoration: overline;
+}
 
+.click-here-link:hover{
+  color: crimson;
+}
 /* .designs_section {
   background-color: white;
   padding-top: 150px;
