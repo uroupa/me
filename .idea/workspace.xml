@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a820c9e2-3f43-4728-867d-554c36e5a195" name="Changes" comment="reduce width of cv download button.">
+    <list default="true" id="a820c9e2-3f43-4728-867d-554c36e5a195" name="Changes" comment="proper cv download placement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/master.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/master.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659454258953</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="proper cv download placement">
+      <created>1659527065474</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659527065474</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,6 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reduce width of cv download button." />
-    <option name="LAST_COMMIT_MESSAGE" value="reduce width of cv download button." />
+    <MESSAGE value="proper cv download placement" />
+    <option name="LAST_COMMIT_MESSAGE" value="proper cv download placement" />
   </component>
 </project>

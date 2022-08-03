@@ -24,9 +24,10 @@ h1 {
   font-size: 1.3rem;
 }
 
+
 /* home */
 .cv-download{
-  margin-top: 5%;
+  margin-top: 2%;
   float: right;
   width: auto;
 }
@@ -55,7 +56,7 @@ margin-right: 0px;
 }
 
 .intro-row {
-  padding-top: 5%;
+  padding-top: 3%;
 }
 
 .home_section span {
