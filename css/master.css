@@ -1,5 +1,4 @@
 
-
 * {
   font-family: 'Segeo UI', 'Roboto', sans-serif;
 }
@@ -29,13 +28,19 @@ h1 {
 .cv-download{
   margin-top: 5%;
   float: right;
-  width: 90px;
+  width: auto;
 }
 
 @media only screen and (max-width: 990px) {
  .cv-download {
-   margin-top: 20%;
+   margin-top: 10%;
+   font-size: 12px;
    }
+
+  .cv-row {
+  margin-top: 8%;
+margin-right: 0px;
+  }
  }
 
 .home_section {
